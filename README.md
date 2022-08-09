@@ -15,7 +15,7 @@ I'm a Software Engineer, and a student at AltSchoolAfrica(https://altschoolafric
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> |
 | ------------- | ------------- |
 
 <img src="https://gpvc.arturio.dev/ghostdev-labs" alt="profile views">
