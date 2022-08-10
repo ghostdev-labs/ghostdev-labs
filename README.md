@@ -11,7 +11,7 @@
 [![](./src/header_.png)](#)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20web%20and%20app%20developer;Experienced%20JavaScript%2FGolang%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -31,6 +31,36 @@ I'm a Software Engineer, and a student at AltSchoolAfrica(https://altschoolafric
 - 📫 You can [view my resume](#) and contact me by emailing ekeneenyi@gmail.com.
 
 ---
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/next.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+
+</div>
+
+<br >
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> |
 | ------------- | ------------- |
