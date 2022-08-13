@@ -68,7 +68,7 @@ I'm a Software Engineer, and a student at AltSchoolAfrica(https://altschoolafric
 
 ## 📈 GitHub Activity Graph:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostdev-labs&theme=tokyonight"/>
 
