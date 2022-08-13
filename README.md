@@ -68,28 +68,13 @@ I'm a Software Engineer, and a student at AltSchoolAfrica(https://altschoolafric
 
 ## 📈 GitHub Activity Graph:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /> 
-
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostdev-labs&theme=tokyonight"/> |
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostdev-labs&theme=tokyonight" /> | ------------- |
-
----
-
 <table>
     <tr>
-        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /></td>
-        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /></td>
+        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdev-labs&show_icons=true&include_all_commits=true&hide_border=true" alt="Allen's GitHub stats" /></td>
+        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdev-labs&langs_count=8&layout=compact&hide_border=true" alt="Allen's GitHub stats" /></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostdev-labs&theme=tokyonight" /></td>
     </tr>
 </table>
 
